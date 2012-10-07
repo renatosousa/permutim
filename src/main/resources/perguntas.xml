@@ -1,0 +1,52 @@
+<com.example.model.Pergunta-array>
+  <com.example.model.Pergunta>
+    <enunciado>Qual a palavra chave é usada para criar novos objetos em Java?</enunciado>
+    <respostas>
+      <string>this</string>
+      <string>new</string>
+      <string>sync</string>
+      <string>obj</string>
+    </respostas>
+    <respostaCorreta>new</respostaCorreta>
+  </com.example.model.Pergunta>
+  <com.example.model.Pergunta>
+    <enunciado>Qual a sintaxe correta para o método main?</enunciado>
+    <respostas>
+      <string>public void main()</string>
+      <string>public static int main(String args[])</string>
+      <string>public static void main(String args[])</string>
+      <string>public void main(String args[])</string>
+    </respostas>
+    <respostaCorreta>public static void main(String args[])</respostaCorreta>
+  </com.example.model.Pergunta>
+  <com.example.model.Pergunta>
+    <enunciado>Qual das classes abaixo não herda de java.lang.Number?</enunciado>
+    <respostas>
+      <string>Integer</string>
+      <string>Boolean</string>
+      <string>Long</string>
+      <string>Short</string>
+    </respostas>
+    <respostaCorreta>Boolean</respostaCorreta>
+  </com.example.model.Pergunta>
+  <com.example.model.Pergunta>
+    <enunciado>Qual interface é base para java.util.List?</enunciado>
+    <respostas>
+      <string>java.collection.Collections</string>
+      <string>java.text.collection.Collections</string>
+      <string>java.text.collection.Collection</string>
+      <string>java.util.Collection</string>
+    </respostas>
+    <respostaCorreta>java.util.Collection</respostaCorreta>
+  </com.example.model.Pergunta>
+  <com.example.model.Pergunta>
+    <enunciado>Qual método da interface Map é utilizado para adicionar uma entrada no Mapa?</enunciado>
+    <respostas>
+      <string>add</string>
+      <string>new</string>
+      <string>put</string>
+      <string>addNew</string>
+    </respostas>
+    <respostaCorreta>put</respostaCorreta>
+  </com.example.model.Pergunta>
+</com.example.model.Pergunta-array>
